@@ -1,0 +1,7 @@
+name:  WebComponentTest
+description:  A sample application
+
+dependencies:
+  web_components: 0.2.1
+
+#  unittest: { sdk: unittest }
